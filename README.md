@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+![](https://komarev.com/ghpvc/?username=marvinko&color=green)
+
 
 <!--
 **marvinko/marvinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
